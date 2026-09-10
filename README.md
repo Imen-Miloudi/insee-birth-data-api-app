@@ -38,6 +38,18 @@ Streamlit Application
 - Interactive time-series visualization with Plotly
 - Data retrieval through the FastAPI API
 
+## API Documentation
+
+The FastAPI interface provides an interactive documentation page for testing and exploring the available endpoints.
+
+![FastAPI documentation](screenshots/fastapi.png)
+
+## Interactive Application
+
+The Streamlit application allows users to select a department and explore the evolution of births over time through an interactive table and visualization.
+
+![Streamlit application](screenshots/streamlit.png)
+
 ## Data Processing
 
 INSEE birth data are retrieved through the INSEE API and transformed into a structured Pandas DataFrame.
