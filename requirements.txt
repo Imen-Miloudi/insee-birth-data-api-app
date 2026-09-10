@@ -1,0 +1,7 @@
+fastapi==0.141.1
+uvicorn==0.52.4
+streamlit==1.63.0
+pandas==2.3.2
+pydantic==2.13.5
+plotly==7.0.0
+requests
